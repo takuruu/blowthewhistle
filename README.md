@@ -3,5 +3,6 @@
 ```mermaid
   classDiagram
     Meldung <|-- Unternehmen
-    Medlung:+str Betreff
+    Meldung: +String Betreff
+    Meldung: +String Inhalt
 ```
