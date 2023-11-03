@@ -1,6 +1,6 @@
 # blowthewhistle
 
 '''mermaid
-classdiagram
-  Meldung <|-- Unternehmen
+  classDiagram
+    Meldung <|-- Unternehmen
 '''
